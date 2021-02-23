@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="8PMproject" verbose="1" >
+  <test name="Selenium scripts" >
+    <classes>
+       <class name="com.qa.edureka.EdurekaPHP" />
+
+    </classes>
+  </test>
+ </suite>
